@@ -1,0 +1,21 @@
+.project {
+    text-align: left;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    box-shadow: 3px 5px 5px black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.project h1 span {
+    font-size: 10px;
+}
+#top .fixedLeft {
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    width: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
